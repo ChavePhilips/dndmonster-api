@@ -1,0 +1,12 @@
+{
+  "monsters": [
+    {"id": 1, "name": "Goblin"},
+    {"id": 2, "name": "Beholder"},
+    {"id": 3, "name": "Dragon"}
+  ],
+  "Characters": [
+    {"id": 1, "name": "Isabella", "Lv": 2},
+    {"id": 2, "name": "Felicia", "Lv": 1},
+    {"id": 3, "name": "Rosehane", "Lv": 20}
+  ]
+}
