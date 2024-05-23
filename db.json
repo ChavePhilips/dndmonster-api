@@ -8,5 +8,8 @@
     {"id": 1, "name": "Isabella", "Lv": 2},
     {"id": 2, "name": "Felicia", "Lv": 1},
     {"id": 3, "name": "Rosehane", "Lv": 20}
-  ]
+  ],
+  "team": {
+    "nome": "etec"
+  }
 }
